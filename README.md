@@ -2,10 +2,6 @@
 
 <h1 id="eng" style="color: yellow">English</h1>
 
-<ul><a href="#about">About the project</a></ul>
-<ul><a href="#tech">Technologies</a></ul>
-<ul><a href="#explorer-program">About the Explorer Program</a></ul>
-
 <h2 id="about">About the project</h2>
 
 <ul>
@@ -34,10 +30,6 @@
 <ul><a href="https://www.rocketseat.com.br/explorer" target="_blank">Rocketseat Explorer Program (PT-BR only)</a></ul>
 
 <h1 id="pt-br" style="color: yellow">Português</h1>
-
-<ul><a href="#about-pt">Sobre o projeto</a></ul>
-<ul><a href="#tech-pt">Tecnologias</a></ul>
-<ul><a href="#explorer-program-pt">Sobre o Programa Explorer</a></ul>
 
 <h2 id="about-pt">Sobre o projeto</h2>
 
