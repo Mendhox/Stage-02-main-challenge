@@ -54,6 +54,6 @@
 
 <h2 id="explorer-program-pt">Sobre o Programa Explorer</h2>
 <ul>
-  <p>The Rocketseat Explorer is a six month intensive Full-Stack program that helps those who are seeking to join the IT field, specifically in Web Development. The Explorer program focus exclusively on hard skills, soft skills and training through hands-on practical activities. The mottos are "never stop learning" and "learn by doing".</p>  
+  <p>O Rocketseat Explorer é um programa Full-Stack intensivo de seis meses que ajuda aqueles que procuram ingressar na área de TI, especificamente em Desenvolvimento Web. O programa Explorer se concentra exclusivamente em hard skills, soft skills e treinamento por meio de atividades práticas. Os lemas são "nunca pare de aprender" e "aprenda fazendo".</p>  
 </ul>
 <ul><a href="https://www.rocketseat.com.br/explorer" target="_blank">Programa Explorer da Rocketseat</a></ul>
