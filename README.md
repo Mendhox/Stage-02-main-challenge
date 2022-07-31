@@ -1,5 +1,7 @@
 <h1><a href="#eng">Read in English 🇺🇸</a> | <a href="#pt-br">Leia em Português 🇧🇷</a></h1>
 
+<img src="./images/stage02-flexbox-snapshot.png" alt="Project Snapshot">
+
 <h1 id="eng" style="color: yellow">English</h1>
 
 <h2 id="about">About the project</h2>
